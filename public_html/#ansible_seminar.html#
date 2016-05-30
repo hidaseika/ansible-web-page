@@ -2,7 +2,6 @@
 <html>
   <head>
     <title></title>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <link rel="stylesheet" href="/stylesheets/bootstrap.min.css">
     <link rel="stylesheet" href="/stylesheets/ie10-viewport-bug-workaround.css">
     <link rel="stylesheet" href="/stylesheets/cover.css">
@@ -21,10 +20,10 @@
             <div id="navbar" class="navbar-collapse collapse">
               <ul class="nav navbar-nav">
                 <li class="active"><a href="/">Home</a></li>
-                <li><a href="./about_ansible.html">Ansibleとは</a></li>
-                <li><a href="./ansible_seminar.html">Ansible勉強会</a></li>
-                <li><a href="./ansible_book.html">Ansible関連書籍</a></li>
-                <li><a href="./ansible_support.html">サポート一覧</a></li>
+                <li><a href="./about_ansible.ht">Ansibleとは</a></li>
+                <li><a href="./ansible_seminar.jade">Ansible勉強会</a></li>
+                <li><a href="./ansible_book.jade">Ansible関連書籍</a></li>
+                <li><a href="./ansible_support.jade">サポート一覧</a></li>
               </ul>
             </div>
           </div>
